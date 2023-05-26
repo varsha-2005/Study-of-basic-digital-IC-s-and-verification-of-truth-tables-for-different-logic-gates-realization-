@@ -84,9 +84,11 @@ RTL realization
 ![image](https://user-images.githubusercontent.com/119288183/227421048-1177a561-c25b-4362-b43e-bf0cefd4cfdc.png)
 
 Output:
-RTL
+### RTL:
 ![image](https://user-images.githubusercontent.com/119288183/227421107-27adecf5-371b-4535-b8b1-1863322343d5.png)
 
+### SIMULATION:
+![226114293-2f3da6be-3d89-4b58-9beb-2efb59bf3ba1](https://github.com/MavillaPranathi/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118343610/9ef5c928-d968-45f6-8083-616240c7cd52)
 
 
 Result:
